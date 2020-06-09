@@ -1,2 +1,3 @@
 https://garywoodfine.com/add-laravel-to-path-on-mac-osx/
 
+https://stackoverflow.com/questions/43140711/database-database-database-sqlite-does-not-exist-database-works-from-artisan
