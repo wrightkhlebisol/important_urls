@@ -4,3 +4,4 @@ https://www.yld.io/blog/node-js-databases-an-embedded-database-using-leveldb/
 
 https://www.bretfisher.com/shell/
 
+https://stackoverflow.com/questions/43140711/database-database-database-sqlite-does-not-exist-database-works-from-artisan
