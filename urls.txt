@@ -1,2 +1,6 @@
 https://garywoodfine.com/add-laravel-to-path-on-mac-osx/
 
+https://www.yld.io/blog/node-js-databases-an-embedded-database-using-leveldb/
+
+https://www.bretfisher.com/shell/
+
