@@ -11,3 +11,8 @@ https://medium.com/compound-finance/borrowing-assets-from-compound-quick-start-g
 https://www.trufflesuite.com/tutorials/deploying-to-the-live-network
 
 https://www.trufflesuite.com/tutorials/robust-smart-contracts-with-openzeppelin
+
+https://www.trufflesuite.com/tutorials/using-infura-custom-provider
+
+https://www.atrium.co/blog/startup-valuations/
+
