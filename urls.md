@@ -22,3 +22,11 @@ https://tor.us/ --- Seamless Key Management
 Torus is an open-source key management system that makes Web3.0 applications feel just like Web2.0
 
 https://www.c-sharpcorner.com/blogs/import-csv-file-data-into-mongodb-in-node --- import csv to mongodb ---- csvtomongodb.js
+
+https://linuxhint.com/postgresql_docker/ --- for docker compose postgresql_docker
+
+---
+
+### Use vue documentation for deploying vue to heroku
+
+---
