@@ -32,3 +32,5 @@ https://linuxhint.com/postgresql_docker/ --- for docker compose postgresql_docke
 ---
 
 https://devcenter.heroku.com/articles/getting-started-with-laravel
+
+https://overthewire.org/wargames/bandit/bandit1.html ------ Learn and practice security concepts in the form of fun-filled games.
