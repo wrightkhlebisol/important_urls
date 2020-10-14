@@ -34,3 +34,5 @@ https://linuxhint.com/postgresql_docker/ --- for docker compose postgresql_docke
 https://devcenter.heroku.com/articles/getting-started-with-laravel
 
 https://overthewire.org/wargames/bandit/bandit1.html ------ Learn and practice security concepts in the form of fun-filled games.
+
+https://github.com/sequelize/sequelize/issues/2471%20-%20Casting%20datatypes%20when%20migrating%20#2471
