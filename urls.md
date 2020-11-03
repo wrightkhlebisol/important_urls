@@ -92,3 +92,8 @@ https://github.com/nvm-sh/nvm#installing-and-updating --------- NVM install
 ```
 https://gist.github.com/nichtich/5290675#gistcomment-2262869 ---- Autodeploy to server on git push
 ```
+
+```
+https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/  ------- Bitbucket setup SSH
+
+```
