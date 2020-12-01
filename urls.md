@@ -97,3 +97,7 @@ https://gist.github.com/nichtich/5290675#gistcomment-2262869 ---- Autodeploy to 
 https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/  ------- Bitbucket setup SSH
 
 ```
+
+```
+https://www.digitalocean.com/community/tutorials/how-to-secure-haproxy-with-let-s-encrypt-on-ubuntu-14-04
+```
