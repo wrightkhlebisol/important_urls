@@ -24,3 +24,7 @@
 * ### Compose file version 3 reference
 
     https://docs.docker.com/compose/compose-file/compose-file-v3/
+
+
+* ### Docker compose postgresql_docker
+    https://linuxhint.com/postgresql_docker/
