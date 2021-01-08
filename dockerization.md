@@ -20,3 +20,7 @@
 * ### Build your Node image
 
     https://docs.docker.com/get-started/nodejs/build-images/
+
+* ### Compose file version 3 reference
+
+    https://docs.docker.com/compose/compose-file/compose-file-v3/
